@@ -1,11 +1,11 @@
 # Anguloffee - AngularJS with CoffeeScript starter
 
+[![forthebadge](http://forthebadge.com/badges/built-with-love.svg)](http://forthebadge.com)
+
 This project is an application skeleton for a typical
 [AngularJS](http://angularjs.org/) web app with
 [CoffeeScript](http://coffeescript.org) similar to
 [angular-seed](https://github.com/angular/angular-seed).
-
-[![forthebadge](http://forthebadge.com/badges/built-with-love.svg)](http://forthebadge.com)
 
 ## Anguloffee has:
 
@@ -46,4 +46,33 @@ To run E2E test you'll need [Protractor](http://angular.github.io/protractor/):
 
 ```
 npm install -g protractor
+```
+
+## Available commands
+
+There are some npm commands defined in package.json.
+
+Run unit tests:
+```
+npm test
+```
+
+Start server (via http-server):
+```
+npm start
+```
+
+Start server (via http-server) in Cloud9:
+```
+npm run start-c9
+```
+
+Compile CoffeeScript:
+```
+npm run coffee
+```
+
+Run E2E test:
+```
+npm run protractor
 ```
