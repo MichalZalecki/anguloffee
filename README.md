@@ -35,7 +35,7 @@ bower install
 ```
 
 If you don't have `karma-cli` installed yet you should do it in order to run
-tests. Http server is optional.
+tests. HTTP server is optional.
 
 ```
 npm install -g karma-cli
