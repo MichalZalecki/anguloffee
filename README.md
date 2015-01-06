@@ -13,7 +13,7 @@ This project is an application skeleton for a typical [AngularJS](http://angular
 * Task runner agnostic approach. Use Gulp, Grunt, Broccoli, Cake or whatever else which suits you best!
 * Cool name. AngularJS + Coffee = Anguloffee. That's funny..., right?
 
-## Conventions:
+## Conventions (and weird stuff):
 
 * **ng-strict-di** Using strict dependency injection is highly recommended. Use [Inline Array Annotation](https://docs.angularjs.org/guide/di#inline-array-annotation) instead of [Implicit Annotation](https://docs.angularjs.org/guide/di#implicit-annotation).
 * **app/lib?** Keep there libraries which cannot be installed via brower e.g. customized version of Modernizr.
