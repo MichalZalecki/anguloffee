@@ -1,7 +1,7 @@
 {
   "name": "anguloffee",
   "version": "1.0.0",
-  "description": "AngularJS with CoffeeScript starter",
+  "description": "AngularJS with CoffeeScript",
   "scripts": {
     "test": "karma start",
 
