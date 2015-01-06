@@ -2,6 +2,9 @@
   "name": "anguloffee",
   "description": "AngularJS with CoffeeScript starter",
   "version": "1.0.0",
+  "authors": [
+    "Michal Zalecki <michal@michalzalecki.com>"
+  ],
   "license": "MIT",
   "private": true,
   "dependencies": {
