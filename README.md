@@ -29,6 +29,7 @@ bower install
 If you don't have `karma-cli` installed yet you should do it in order to run tests. HTTP server is optional.
 
 ```
+npm install -g coffee-script
 npm install -g karma-cli
 npm install -g http-server
 ```
