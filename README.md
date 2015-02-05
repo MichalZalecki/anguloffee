@@ -1,7 +1,5 @@
 # Anguloffee - AngularJS with CoffeeScript
 
-[![forthebadge](http://forthebadge.com/badges/built-with-love.svg)](http://forthebadge.com)
-
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app with [CoffeeScript](http://coffeescript.org) similar to [angular-seed](https://github.com/angular/angular-seed).
 
 ## Anguloffee has:
